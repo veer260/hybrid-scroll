@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Wotfard";
+  src: url(../wotfard-regular-webfont.woff2) format("woff2");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Wotfard";
+}
+
+html,
+body {
+  height: 100%;
+}
